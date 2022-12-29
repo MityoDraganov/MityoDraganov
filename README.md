@@ -7,6 +7,9 @@
 
 [JS Advanced - September 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9945885/JS.Advanced.-.September.2022.-.Certificate.pdf)
 
+[JS Applications - October 2022 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/10318067/JS.Applications.-.October.2022.-.Certificate.pdf)
+
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
