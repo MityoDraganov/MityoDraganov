@@ -16,7 +16,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.25" height="28" role="img" aria-label="REACT">
   
   
-  [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=&lineCount=1&theme=react&line1=react,react,61DBFB;)](https://github-readme-tech-stack.vercel.app/api/cards?title=&lineCount=1&theme=react&line1=react,react,61DBFB;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=&lineCount=1&theme=react&hideBg=true&line1=react,react,61DBFB;)](https://github-readme-tech-stack.vercel.app/api/cards?title=&lineCount=1&theme=react&hideBg=true&line1=react,react,61DBFB;)
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MityoDraganov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
