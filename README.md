@@ -9,6 +9,12 @@
 
 [JS Applications - October 2022 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/10318067/JS.Applications.-.October.2022.-.Certificate.pdf)
 
+[JS Back-End - January 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/11467992/JS.Back-End.-.January.2023.-.Certificate.pdf)
+
+[ReactJS - February 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/11467994/ReactJS.-.February.2023.-.Certificate.pdf)
+
+
+
 
 
 # 💻 Tech Stack:
