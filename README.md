@@ -1,5 +1,9 @@
 # 💫 About Me:
-😀My name is Mityo Draganov<br>👨‍🎓Student at SoftUni(softuni.bg)<br> <br>
+😀My name is Mityo Draganov
+<br>
+👨‍🎓Student at SoftUni(softuni.bg)
+<br> 
+<br>
 <br>
 
 # 📋 Certificates:
