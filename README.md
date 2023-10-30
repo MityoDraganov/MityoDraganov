@@ -3,8 +3,6 @@
 <br>
 👨‍🎓Student at SoftUni(softuni.bg)
 <br> 
-<br>
-<br>
 📚Current avarage grade - 5.97/6.00 (October 2023)
 <br>
 
