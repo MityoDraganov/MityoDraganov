@@ -13,6 +13,9 @@
 
 [ReactJS - February 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/11467994/ReactJS.-.February.2023.-.Certificate.pdf)
 
+[HTML & CSS - May 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/13209982/HTML.CSS.-.May.2023.-.Certificate.pdf)
+
+[C# Advanced - September 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/13209997/C.Advanced.-.September.2023.-.Certificate.pdf)
 
 
 
