@@ -5,6 +5,8 @@
 <br> 
 📚Current avarage grade - 5.97/6.00 (October 2023)
 <br>
+<br>
+<br>
 
 # 📋 Certificates:
 [Programming Fundamentals with JavaScript - May 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9333860/Programming.Fundamentals.with.JavaScript.-.May.2022.-.Certificate.pdf)
