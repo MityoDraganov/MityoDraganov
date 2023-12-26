@@ -1,8 +1,8 @@
 # 💫 About Me:
-😀My name is Mityo Draganov
+
 <br>
-👨‍🎓Student at SoftUni(softuni.bg)
-<br> 
+
+I am a motivated and ambitious high school student with a passion for web development and a strong desire to learn and grow in the field. While I may not have previous work experience, I have spent the past few years honing my skills and expanding my knowledge in web development through self-study, personal projects and the educational program at Software University.
 <br>
 <br>
 <br>
