@@ -1,11 +1,9 @@
 # 💫 About Me:
+I am a motivated and ambitious software engineer and a
+Software University graduate with a passion for web
+development and a strong desire to learn and grow in the
+field.
 
-<br>
-
-I am a motivated and ambitious high school student with a passion for web development and a strong desire to learn and grow in the field. While I may not have previous work experience, I have spent the past few years honing my skills and expanding my knowledge in web development through self-study, personal projects and the educational program at Software University.
-<br>
-<br>
-<br>
 
 # 🎓 Diploma:
 [Diploma for JS Web Developer.pdf](https://github.com/user-attachments/files/17083423/Diploma.for.JS.Web.Developer.pdf)
@@ -26,7 +24,6 @@ I am a motivated and ambitious high school student with a passion for web develo
 [HTML & CSS - May 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/13209982/HTML.CSS.-.May.2023.-.Certificate.pdf)
 
 [C# Advanced - September 2023 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/13209997/C.Advanced.-.September.2023.-.Certificate.pdf)
-
 
 
 
