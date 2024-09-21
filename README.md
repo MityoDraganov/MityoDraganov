@@ -7,6 +7,11 @@ I am a motivated and ambitious high school student with a passion for web develo
 <br>
 <br>
 
+# 🎓 Diploma:
+[Diploma for JS Web Developer.pdf](https://github.com/user-attachments/files/17083423/Diploma.for.JS.Web.Developer.pdf)
+<br>
+<br>
+
 # 📋 Certificates:
 [Programming Fundamentals with JavaScript - May 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9333860/Programming.Fundamentals.with.JavaScript.-.May.2022.-.Certificate.pdf)
 
@@ -30,6 +35,7 @@ I am a motivated and ambitious high school student with a passion for web develo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>          
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
